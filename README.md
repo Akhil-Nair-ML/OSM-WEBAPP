@@ -85,4 +85,4 @@ We have the following API's for the Open search Scaling Manager
 
 
 ### OSM UI
-For more information on UI Please follow [UI Documentation](https://github.com/Akhil-Nair-ML/OSM-WEBAPP/opensearch-scaling-manager-ui/README.md)
+For more information on UI Please follow [UI Documentation](https://github.com/Akhil-Nair-ML/osm-webapp/blob/27a2271e280d201b079b8bb9690aef1cf3319d8c/opensearch-scaling-manager-ui/README.md)
